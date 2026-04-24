@@ -8,21 +8,15 @@
     "liveLink": "https://ecommerce-mart-rsme.vercel.app/",
     "codeLink": "https://github.com/alirazaa689937-code/Ecommerce-Mart.git"
   },
- 
-  
- 
- 
   {
     "id": 2,
     "title": "Portfolio webiste ",
     "description": "A portfolio website where we can show our all necessary details to the anyone such as out projects , our education etc",
     "technologies": ["React.js","Tailwind CSS", "javascript" , "html/css"],
     "image": "../src/assets/images/portfolio.png",
-    "liveLink": "https://example.com",
-    "codeLink": "https://github.com/hamza-muneer?tab=repositories"
+    "liveLink": "https://vercel.com/aliradafs-projects/portfolio-main-panel",
+    "codeLink": "https://github.com/aliraza-div/Portfolio-main-panel.git"
   },
-   
-
   {
     "id": 3,
     "title": "Weather update website",
