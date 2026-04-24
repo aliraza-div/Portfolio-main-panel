@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce Platform",
+    "description": "A full-featured frontend of e-commerece store with admin pannel , products , add to cart",
+    "technologies": ["React", "Tailwind CSS", "javascript", "html/css"],
+    "image": "../src/assets/images/ecommerce.png",
+    "liveLink": "https://ecommerce-mart-rsme.vercel.app/",
+    "codeLink": "https://github.com/alirazaa689937-code/Ecommerce-Mart.git"
+  },
+ 
+  
+ 
+ 
+  {
+    "id": 2,
+    "title": "Portfolio webiste ",
+    "description": "A portfolio website where we can show our all necessary details to the anyone such as out projects , our education etc",
+    "technologies": ["React.js","Tailwind CSS", "javascript" , "html/css"],
+    "image": "../src/assets/images/portfolio.png",
+    "liveLink": "https://example.com",
+    "codeLink": "https://github.com/hamza-muneer?tab=repositories"
+  },
+   
+
+  {
+    "id": 3,
+    "title": "Weather update website",
+    "description": "A dynamic weather application that provides real-time weather updates with intuitive city search functionality. Users can easily look up current conditions, forecasts, and detailed meteorological data for any desired location worldwide.",
+    "technologies": ["React", "Tailwind css", "javascript" , "html/css"],
+    "image": "../src/assets/images/weather.png",
+    "liveLink": "https://weather-app-rho-topaz-52.vercel.app/",
+    "codeLink": "https://github.com/alirazaa689937-code/Weather-App.git"
+  }
+  
+  
+ 
+]
+
+  
