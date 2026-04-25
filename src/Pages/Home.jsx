@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 import SocialIcons from '../components/SocialIcons';
-import ali from '../assets/images/ali.jpeg';
+import ali from '/images/ali.jpeg';
 const Home = () => {
   const [text, setText] = useState('');
   const fullText = "Frontend Developer ";
