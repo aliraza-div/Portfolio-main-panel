@@ -14,7 +14,7 @@
     "description": "A portfolio website where we can show our all necessary details to the anyone such as out projects , our education etc",
     "technologies": ["React.js","Tailwind CSS", "javascript" , "html/css"],
     "image": "../images/portfolio.png",
-    "liveLink": "https://vercel.com/aliradafs-projects/portfolio-main-panel",
+    "liveLink": "https://portfolio-main-panel.vercel.app/",
     "codeLink": "https://github.com/aliraza-div/Portfolio-main-panel.git"
   },
   {
