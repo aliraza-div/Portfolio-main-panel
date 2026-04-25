@@ -151,7 +151,7 @@ const Home = () => {
               >
                 <motion.img 
                   src={ali} 
-                  alt="Muhammad Hamza"
+                  alt="Ali Raza "
                   className="w-full h-full object-cover pt-1"
                   initial={{ scale: 1.2 }}
                   animate={{ scale: 1 }}
